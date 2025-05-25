@@ -1,7 +1,7 @@
 
 <div align="center">
 
-<img src="https://0hoanglong.github.io/0hoanglong/img/pain.jpg" alt="hoanglong-banner" style="border-radius: 15px;">
+<img src="https://0hoanglong.github.io/img/pain.jpg" alt="hoanglong-banner" style="border-radius: 15px;">
 <div align="center">
   <h1><pre>what is the pain...</pre></h1>
 </div>
