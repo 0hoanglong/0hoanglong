@@ -7,6 +7,7 @@
 </div>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0hoanglong&layout=compact&hide=html&title_color=&theme=dark&text_color=&hide_border=1&border_radius=10" alt="hoanglong">
+  <img src="https://github-readme-stats.vercel.app/api?username=0hoanglong&show_icons=true&theme=dark&locale=vi&border_radius=10&custom_title=0hoanglong">
 </p>
 https://0hoanglong.github.io/
 </div>
